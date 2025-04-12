@@ -6,10 +6,15 @@
     git clone https://github.com/adi1090x/rofi.git
 ```
 
-3.  edit this file: ~/.config/hypr/hyprland.conf
+3.  Edit this file: ~/.config/hypr/hyprland.conf
 
-4.  go to the section "keybinds" and add:
+4.  Go to the section "keybinds" and add:
 
 ```bash
     bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh
 ```
+
+5. You can chainge A to a keybind you like.
+   
+6. bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh you can chainge the type to:
+   type-1 to type type-7 and all in between.
