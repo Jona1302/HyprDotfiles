@@ -3,8 +3,8 @@
 1.  Go on this repo, clone it and then execute the bash scipt:
 
 ```bash
-    https://github.com/adi1090x/rofi.git
----
+    git clone https://github.com/adi1090x/rofi.git
+``
 
 3.  edit this file: ~/.config/hypr/hyprland.conf
 
