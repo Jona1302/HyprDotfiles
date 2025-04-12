@@ -6,4 +6,5 @@
 
 3. go to the section "keybinds" and add:
 
+```bash
 bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh
