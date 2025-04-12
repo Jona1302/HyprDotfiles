@@ -1,8 +1,10 @@
 # HyprDotfiles
 
 1.  Go on this repo, clone it and then execute the bash scipt:
+
 ```bash
     https://github.com/adi1090x/rofi.git
+````markdown
 
 3.  edit this file: ~/.config/hypr/hyprland.conf
 
