@@ -10,6 +10,6 @@
 
 4.  go to the section "keybinds" and add:
 
-```bash2
-bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh
+```bash
+     bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh
 ``
