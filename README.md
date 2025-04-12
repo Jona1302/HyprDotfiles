@@ -4,8 +4,7 @@
 
 ```bash
     https://github.com/adi1090x/rofi.git
-```bash
-
+---
 
 3.  edit this file: ~/.config/hypr/hyprland.conf
 
