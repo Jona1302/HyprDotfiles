@@ -11,8 +11,5 @@
 4.  go to the section "keybinds" and add:
 
 ```bash
-    git clone https://github.com/adi1090x/rofi.git
+    bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh
 ```
-
-```bash
-     bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh
