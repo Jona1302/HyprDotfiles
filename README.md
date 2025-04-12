@@ -17,4 +17,4 @@
 5. You can chainge A to a keybind you like.
    
 6. bind = $mainMod, A, exec, ~/.config/rofi/launchers/type-1/launcher.sh you can chainge the type to:
-   type-1 to type type-7 and all in between.
+   type-1 to type type-7 and all in between for other themes.
